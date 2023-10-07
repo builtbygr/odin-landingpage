@@ -1,0 +1,36 @@
+* {
+    background-color: #1F2937;
+  }
+  
+  .menu_container {
+    color: white;
+    display: flex;
+    border: solid 1px;
+    height: auto;
+    justify-content: top;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 15px
+  }
+  
+  .header_logo {
+    font-weight: bolder;
+  }
+  
+  .links {
+    color: white;
+    margin-right: 5vw;
+    font-weight: 400;
+  }
+
+  .hero_container {
+    border: solid 1px
+  }
+
+  .hero_content {
+
+  }
+
+  .signup_button {
+
+  }
